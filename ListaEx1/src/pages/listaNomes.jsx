@@ -1,7 +1,7 @@
 import { useState } from "react";
 import styles from "./ListaNomes.module.css";
 
-export function CuGrosso(){
+export function ListaNomes(){
     const nomes =[
         {id: 1, nome: "Gabriel"},
         {id: 2, nome: "Duda"},
